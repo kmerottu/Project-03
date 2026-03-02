@@ -13,4 +13,4 @@
 ## Project 03 Documentation Folder
 https://github.com/kmerottu/Project-03/tree/main/docs
 ## Live Website
-https://kmerottu.github.io/project-03
+https://kmerottu.github.io/Project-03/
